@@ -1,4 +1,4 @@
-<img align="center" alt="coding" src="https://media.licdn.com/dms/image/C4D16AQFXzsGu9wVuNQ/profile-displaybackgroundimage-shrink_350_1400/0/1658500111542?e=1681344000&v=beta&t=ijm1x3pZ3yhlfFYpyplbDlXwPuYuY_QSK0M9cXi0lFU">
+<img height="100%" width="100%" align="center" alt="coding" src="https://user-images.githubusercontent.com/47854537/235898717-e9d557b9-56bd-465e-806a-dee638b5743f.png">
 <h1>Hello World 👋, I'm Sarthak Maniar</h1>
 <h3> I am currently pursuing Masters in Computer Science from the University of Colorado Boulder </h3>
 
