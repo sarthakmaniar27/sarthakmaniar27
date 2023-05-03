@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
-- 🔭 I am actively looking for Summer 2023 SWE/SDE internship roles. <a href="https://docs.google.com/document/d/1cGqYPyMoFgWhbqU0dMam9WURKVcbKLMXrAh4WKs5lR8/edit?usp=sharing"> Here's my resume </a>
+<!-- - 🔭 I am actively looking for Summer 2023 SWE/SDE internship roles. <a href="https://docs.google.com/document/d/1cGqYPyMoFgWhbqU0dMam9WURKVcbKLMXrAh4WKs5lR8/edit?usp=sharing"> Here's my resume </a> -->
 
 - 📫 How to reach me **sarthak.maniar@colorado.edu**
 
