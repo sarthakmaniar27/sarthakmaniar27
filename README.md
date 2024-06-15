@@ -1,12 +1,12 @@
 <img height="100%" width="100%" align="center" alt="coding" src="https://user-images.githubusercontent.com/47854537/235898717-e9d557b9-56bd-465e-806a-dee638b5743f.png">
 <h1>Hello World 👋, I'm Sarthak Maniar</h1>
-<h3> I am currently pursuing Masters in Computer Science from the University of Colorado Boulder </h3>
+<h3> I am a self-motivated Software Engineer with a Masters in Computer Science from the University of Colorado Boulder </h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 <!-- - 🔭 I am actively looking for Summer 2023 SWE/SDE internship roles. <a href="https://docs.google.com/document/d/1cGqYPyMoFgWhbqU0dMam9WURKVcbKLMXrAh4WKs5lR8/edit?usp=sharing"> Here's my resume </a> -->
 
-- 📫 How to reach me **sarthak.maniar@colorado.edu**
+- 📫 How to reach me **sarthakmaniar.cub@gmail.com**
 
 - ⚡ Hobbies **Badminton 🏸 Swimming 🏊 Stargazing 🌌**
 
